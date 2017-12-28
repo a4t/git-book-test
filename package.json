@@ -1,0 +1,12 @@
+{
+  "name": "git-book-test",
+  "version": "1.0.0",
+  "directories": {
+    "doc": "docs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
